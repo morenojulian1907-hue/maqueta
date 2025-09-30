@@ -1,0 +1,3 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="k^IB)RG$=P2P]i!Ax-}M">entered</variable><variable id="Ne(mOBnBUejEXmCj87$S">password</variable><variable id="*N_J(kXv)Q6c#*;g~184">unlocked</variable><variable id="-cYBe)fQ(|bPLU]enlE#">temp</variable></variables><comment id=":oe@=-I-WI)6e%e}=ax;" x="1561" y="533" w="480" h="120">
+Se eliminó el basic.forever que detenía la melodía al dejar de agitar
+</comment></xml>
